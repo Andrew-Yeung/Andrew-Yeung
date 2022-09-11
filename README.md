@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andrew Yeung</h1>
+<h1 align="center">Wassup 👋, I'm Andrew Yeung</h1>
 <h3 align="center">An ambitious and inquisitive student interested in computer science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=andrew-yeung&label=Profile%20views&color=0e75b6&style=flat" alt="andrew-yeung" /> </p>
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **andrewyeung009@gmail.com**
 
-- ⚡ Fun fact **ok**
+- ⚡ Fun fact **I love playing sports but I truly do suck :(**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
