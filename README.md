@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 🤝 I’m looking forward to attending **future hackathons**
+- 🤝 I’m looking forward to attending **more hackathons**
 
 - 📫 How to reach me **andrewyeung009@gmail.com**
 
