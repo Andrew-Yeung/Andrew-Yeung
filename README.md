@@ -24,4 +24,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-yeung&show_icons=true&locale=en" alt="andrew-yeung" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-yeung&" alt="andrew-yeung" /></p>
