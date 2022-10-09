@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **ASP.NET**
 
-- 🤝 I’m looking forward to attending **more hackathons**
-
 - 📫 How to reach me **andrewyeung009@gmail.com**
 
 - ⚡ Fun fact **I love playing sports but I truly do suck :(**
